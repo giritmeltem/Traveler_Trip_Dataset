@@ -1,5 +1,5 @@
 # Traveler_Trip_Dataset
-This repository contains an analysis of travel data carried out through data cleaning and Exploratory Data Analysis (EDA) using SQL.
+This repository contains an analysis of travel data carried out through data cleaning and Exploratory Data Analysis (EDA) using SQL, with visualizations created in Tableau.
 
 ## About the Data
 The travel dataset from Kaggle, provides detailed information on various trips taken by travelers, destination details, travel dates, duration of the trip in days, traveler demographics (name, age, gender, and nationality), as well as accommodation and transportation specifics. You can access the dataset from this [link](https://www.kaggle.com/datasets/rkiattisak/traveler-trip-data/data). It's comprehensive, containing all necessary information to address my questions. The data is sourced from 2021, ensuring relevance, and being open-source, it's easily accessible.
